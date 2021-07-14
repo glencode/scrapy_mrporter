@@ -1,0 +1,10 @@
+desc:
+    css: 'div.ProductList52__productItem span.ProductItem24__name'
+    xpath: null
+    multiple: true
+    type: Text
+price:
+    css: 'div.ProductList52__productItem span.PriceWithSchema9__value'
+    xpath: null
+    multiple: true
+    type: Text
